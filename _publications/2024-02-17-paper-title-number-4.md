@@ -3,7 +3,7 @@ title: "Fairness in Machine Learning via Optimal Transport"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-12-01-fairness-optimal-transport
-excerpt: "This paper explores fairness in machine learning through the lens of optimal transport, offering a novel framework to address fairness in algorithmic decision-making."
+excerpt: "This work explores fairness in machine learning through the lens of optimal transport, offering a novel framework to address fairness in algorithmic decision-making."
 date: 2024-06-01
 venue: 'eScholarship, University of California'
 slidesurl: ''
