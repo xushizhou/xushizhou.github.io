@@ -3,7 +3,7 @@ title: "Fair Data Representation for Machine Learning at the Pareto Frontier"
 collection: publications
 category: journals
 permalink: /publication/2023-08-10-fair-data-representation
-excerpt: "This paper introduces a novel framework for achieving fair data representation in machine learning by exploring the Pareto frontier, addressing trade-offs between fairness and accuracy."
+excerpt: "This paper introduces a mathematically provable framework for achieving fair data representation in machine learning by exploring the Pareto frontier, addressing the optimal trade-offs between group fairness and accuracy via a pre-processing approach."
 date: 2023-08-10
 venue: 'Journal of Machine Learning Research (JMLR)'
 slidesurl: ''
