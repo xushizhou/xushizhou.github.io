@@ -3,7 +3,7 @@ title: "WHOMP: Optimizing Randomized Controlled Trials via Wasserstein Homogenei
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-03-whomp-wasserstein-homogeneity
-excerpt: "This paper presents a novel approach to optimizing Randomized Controlled Trials using Wasserstein homogeneity, offering improvements over traditional methods."
+excerpt: "This paper presents novel optimality criteria for subgroup splitting (named WHOMP) in comparative experiments, such as clinical trials, social experiments, and A/B tests. Furthermore, we provide efficient algorithms to estimate the WHOMP optimal solutions. Finally, the paper offers comprehensive analytical comparisons and numerical experiments to demonstrate the significant advantages of WHOMP over traditional methods, including random partitioning, covariate-adaptive randomization, rerandomization, and anti-clustering."
 date: 2024-10-03
 venue: 'arXiv preprint'
 slidesurl: ''
