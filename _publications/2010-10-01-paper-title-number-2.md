@@ -3,7 +3,7 @@ title: "On the (In)Compatibility between Individual and Group Fairness"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-20-individual-group-fairness
-excerpt: "This paper explores the trade-offs and tensions between individual fairness and group fairness in machine learning, providing new insights into fairness definitions and their practical implications."
+excerpt: "This paper explores the compatibility and conflict between individual fairness and (the Pareto optimality of) group fairness in machine learning."
 date: 2024-01-20
 venue: 'arXiv preprint'
 slidesurl: ''
