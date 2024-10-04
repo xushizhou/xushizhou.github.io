@@ -2,7 +2,7 @@
 layout: home
 title: "Shizhou Xu"
 permalink: /
-sidebar: true  # Ensure the sidebar is enabled
+sidebar: true
 ---
 
 # Welcome
