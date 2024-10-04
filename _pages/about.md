@@ -1,14 +1,53 @@
 ---
 layout: home
-title: "Welcome to My Website"
+title: "Shizhou Xu"
 permalink: /
 ---
 
 # Welcome
-Hi, I'm Shizhou Xu, and this is my personal academic website. I work in the intersection of mathematics and machine learning.
+
+Hello, I'm **Shizhou Xu**, a postdoctoral scholar at the University of California, Davis. My research focuses on the interdisciplinary area between **mathematics** and **machine learning**, particularly in **fairness**, **optimal transport**, and **causal inference**. My recent work addresses fairness in machine learning using mathematical models such as optimal transport theory and high-dimensional statistics.
+
+I am actively seeking academic positions and research opportunities where I can continue to contribute to advancing machine learning through rigorous mathematical frameworks.
+
+![Shizhou Xu](path_to_your_photo.jpg) <!-- Add a professional photo of yourself -->
+
+---
 
 ## Research Interests
-- Probability theory
-- Mathematical Statistics
-- (Trustworthy) Machine learning
-- Data Science
+
+- **Mathematics**: Probability theory, optimal transport, stochastic dynamical systems, ergodic theory, and the mathematics of data science.
+- **Statistics**: High-dimensional statistics, mathematical statistics, and causal inference.
+- **Machine Learning**: Fairness, privacy, robustness, explainable AI, and machine unlearning.
+
+You can read more about my research [here](/research/).
+
+---
+
+## Recent Publications
+
+Here are a few highlights from my recent work:
+
+- **[WHOMP: Optimizing Randomized Controlled Trials via Wasserstein Homogeneity](https://arxiv.org/pdf/2409.18504)**, arXiv, 2024.
+- **[On the (In)Compatibility between Individual and Group Fairness](https://arxiv.org/pdf/2401.07174)**, arXiv, 2024.
+- **[Fair Data Representation for Machine Learning at the Pareto Frontier](https://www.jmlr.org/papers/volume24/22-0005/22-0005.pdf)**, Journal of Machine Learning Research, 2023.
+
+For a full list of my publications, see [Publications](/publications/).
+
+---
+
+## News and Updates
+
+- **Oct 2024**: Presented my latest research at the International Conference on Machine Learning (ICML).
+- **Jan 2024**: Awarded the Yueh-Jing Lin Scholarship for excellence in research at UC Davis.
+- **Aug 2023**: Published in the *Journal of Machine Learning Research* on fairness in machine learning at the Pareto frontier.
+
+---
+
+## Get in Touch
+
+I am always open to discussing potential collaborations, research opportunities, and academic positions. Feel free to reach out via [email](mailto:shzxu@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/shizhouxu/).
+
+For more information, you can download my [CV](assets/files/cv.pdf) or check out my [Google Scholar](https://scholar.google.com/citations?user=YOUR_UNIQUE_ID) profile.
+
+---
