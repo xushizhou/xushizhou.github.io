@@ -10,7 +10,7 @@ Hello, I'm **Shizhou Xu**, a postdoctoral scholar at the University of Californi
 
 I am actively seeking academic positions and research opportunities where I can continue to contribute to advancing machine learning through rigorous mathematical frameworks.
 
-![Shizhou Xu](path_to_your_photo.jpg) <!-- Add a professional photo of yourself -->
+![Shizhou Xu](images/IMGP1928.jpeg) <!-- Add a professional photo of yourself -->
 
 ---
 
