@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome
 
-Hello, I'm **Shizhou Xu**, a postdoctoral scholar at the University of California, Davis. My research focuses on the interdisciplinary area between **mathematics** and **machine learning**, particularly in **fairness**, **optimal transport**, and **causal inference**. My recent work addresses fairness in machine learning using mathematical models such as optimal transport theory and high-dimensional statistics.
+Hello, I'm **Shizhou Xu**, a postdoctoral scholar at the University of California, Davis. My research focuses on the interdisciplinary area between **mathematics** and **machine learning**, particularly in **probability theory**, **optimal transport**, and **trustworthy AI**. My recent work addresses fairness in machine learning using mathematical techniques such as optimal transport combined with learning models such as GANs and transformers.
 
 I am actively seeking academic positions and research opportunities where I can continue to contribute to advancing machine learning through rigorous mathematical frameworks.
 
@@ -38,10 +38,11 @@ For a full list of my publications, see [Publications](/publications/).
 
 ## News and Updates
 
-- **Oct 2024**: Presented my latest research at the International Conference on Machine Learning (ICML).
-- **Jan 2024**: Awarded the Yueh-Jing Lin Scholarship for excellence in research at UC Davis.
+- **Sep 2024**: Invited talk at the *Computational Harmonic Analysis in Data Science and Machine Learning* workshop, Casa Matemática Oaxaca & Banff International Research Station.
+- **Jul 2024**: Presented my latest research at the International Conference on Machine Learning (ICML).
+- **Jun 2024**: Awarded the Yueh-Jing Lin Scholarship for excellence in research at UC Davis.
 - **Aug 2023**: Published in the *Journal of Machine Learning Research* on fairness in machine learning at the Pareto frontier.
-
+- 
 ---
 
 ## Get in Touch
