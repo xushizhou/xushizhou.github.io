@@ -21,7 +21,7 @@ repository               : "xushizhou/xushizhou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMGP1769.jpeg"
+  avatar           : "/images/IMGP1769.jpeg"
   name             : "Shizhou"
   pronouns         : # example: "she/her"  
   bio              : "Working on the interdisciplinary area between mathematics and machine learning."
