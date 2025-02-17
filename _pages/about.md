@@ -29,6 +29,7 @@ You can read more about my research [here](/research/).
 
 Here are a few highlights from my recent work:
 
+- **[Machine Unlearning via Information Theoretic Regularization](https://www.arxiv.org/pdf/2502.05684)**, arXiv, 2025.
 - **[WHOMP: Optimizing Randomized Controlled Trials via Wasserstein Homogeneity](https://arxiv.org/pdf/2409.18504)**, arXiv, 2024.
 - **[On the (In)Compatibility between Individual and Group Fairness](https://arxiv.org/pdf/2401.07174)**, arXiv, 2024.
 - **[Fair Data Representation for Machine Learning at the Pareto Frontier](https://www.jmlr.org/papers/volume24/22-0005/22-0005.pdf)**, Journal of Machine Learning Research, 2023.
@@ -39,16 +40,17 @@ For a full list of my publications, see [Publications](/publications/).
 
 ## News and Updates
 
-- **Sep 2024**: Invited talk at the *Computational Harmonic Analysis in Data Science and Machine Learning* workshop, Casa Matemática Oaxaca & Banff International Research Station.
-- **Jul 2024**: Presented my latest research at the International Conference on Machine Learning (ICML).
+- **Mar 2025**: To present "WHOMP: Wasserstein Homogeneity Partition" at the Stanford University *Conference on Parsimony and Learning (CPAL)*.
+- **Jan 2025**: Invited talk on "WHOMP: Wasserstein Homogeneity Partition" at the University of California Davis *MADDD& Seminer.
+- **Sep 2024**: Invited talk on *Fairness in Machine Learning* at the *Computational Harmonic Analysis in Data Science and Machine Learning* workshop, Casa Matemática Oaxaca & Banff International Research Station.
+- **Jul 2024**: Presented "Fair Data Representation at the Pareto Frontier" at the *International Conference on Machine Learning (ICML)*.
 - **Jun 2024**: Awarded the Yueh-Jing Lin Scholarship for excellence in research at UC Davis.
-- **Aug 2023**: Published in the *Journal of Machine Learning Research* on fairness in machine learning at the Pareto frontier.
-- 
+- **Aug 2023**: "Fair Data Representation at the Pareto Frontier" is published in the *Journal of Machine Learning Research* on fairness in machine learning at the Pareto frontier.
 ---
 
 ## Get in Touch
 
-I am always open to discussing potential collaborations, research opportunities, and academic positions. Feel free to reach out via [email](mailto:shzxu@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/shizhouxu/).
+I am always open to discussing potential collaborations and research opportunities. Feel free to reach out via [email](mailto:shzxu@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/shizhouxu/).
 
 For more information, you can download my [CV](assets/files/cv.pdf) or check out my [Google Scholar](https://scholar.google.com/citations?user=YOUR_UNIQUE_ID) profile.
 
