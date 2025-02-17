@@ -41,7 +41,7 @@ For a full list of my publications, see [Publications](/publications/).
 ## News and Updates
 
 - **Mar 2025**: To present "WHOMP: Wasserstein Homogeneity Partition" at the Stanford University *Conference on Parsimony and Learning (CPAL)*.
-- **Jan 2025**: Invited talk on "WHOMP: Wasserstein Homogeneity Partition" at the University of California Davis *MADDD& Seminer.
+- **Jan 2025**: Invited talk on "WHOMP: Wasserstein Homogeneity Partition" at the University of California Davis *MADDD* Seminer.
 - **Sep 2024**: Invited talk on *Fairness in Machine Learning* at the *Computational Harmonic Analysis in Data Science and Machine Learning* workshop, Casa Matemática Oaxaca & Banff International Research Station.
 - **Jul 2024**: Presented "Fair Data Representation at the Pareto Frontier" at the *International Conference on Machine Learning (ICML)*.
 - **Jun 2024**: Awarded the Yueh-Jing Lin Scholarship for excellence in research at UC Davis.
