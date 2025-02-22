@@ -48,6 +48,7 @@ For a full list of my publications, see [Publications](/publications/).
 - **Jul 2024**: Presented "Fair Data Representation at the Pareto Frontier" at the *International Conference on Machine Learning (ICML)*.
 - **Jun 2024**: Awarded the Yueh-Jing Lin Scholarship for excellence in research at UC Davis.
 - **Aug 2023**: "Fair Data Representation at the Pareto Frontier" is published in the *Journal of Machine Learning Research* on fairness in machine learning at the Pareto frontier.
+
 ---
 
 ## Get in Touch
