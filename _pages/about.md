@@ -9,7 +9,7 @@ sidebar: true
 
 Hello, I'm **Shizhou Xu**, a postdoctoral scholar at the University of California, Davis. My research focuses on the interdisciplinary area between **mathematics** and **machine learning**, particularly in **probability theory**, **optimal transport**, and **trustworthy AI**. My recent work addresses fairness in machine learning using mathematical techniques such as optimal transport combined with learning models such as GANs and transformers.
 
-I am actively seeking academic positions and research opportunities where I can continue to contribute to advancing machine learning through rigorous mathematical frameworks.
+I am actively seeking opportunities where I can continue to contribute to advancing machine learning through rigorous mathematical frameworks.
 
 ![Shizhou Xu](images/IMGP1928.jpeg){: width="300px"} <!-- Add a professional photo of yourself -->
 
