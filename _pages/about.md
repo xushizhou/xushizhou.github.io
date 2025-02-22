@@ -20,7 +20,7 @@ I am actively seeking opportunities where I can continue to contribute to advanc
 ## Research Interests
 
 - **Mathematics**: Probability theory, optimal transport, stochastic dynamical systems, ergodic theory, and the mathematics of data science.
-- **Statistics**: High-dimensional statistics, mathematical statistics, and causal inference.
+- **Statistics**: High-dimensional statistics, mathematical statistics, and statistical inference.
 - **Machine Learning**: Fairness, privacy, robustness, explainable AI, and machine unlearning.
 
 You can read more about my research [here](/research/).
