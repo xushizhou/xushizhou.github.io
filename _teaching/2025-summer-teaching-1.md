@@ -1,12 +1,10 @@
 ---
 layout: page
 title: "MATH 127C — Real Analysis (Summer 2025)"
-permalink: /teaching/math-127c-summer-2025/
-description: "Announcements, policies, and schedule for MATH 127C (Summer 2025)."
-math: true
+permalink: /teaching/2025/summer-127c/
+date: 2025-06-24        # prevents the “, , 1900” artifact
+nav_order: 1            # optional (for some themes)
 ---
-
-# MATH 127C — Real Analysis (Summer 2025)
 
 > This page mirrors announcements, policies, and a living schedule for the Summer 2025 offering. Lecture notes and problem sets reflect the topics we covered this term: metric spaces, compactness/connectedness, multivariable differentiability (Jacobian, chain/implicit/inverse theorems), $k$–volume and Gram determinants, change of variables, Fubini/Tonelli, and Green/Stokes/Divergence.
 
