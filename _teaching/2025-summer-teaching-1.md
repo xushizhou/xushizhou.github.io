@@ -1,23 +1,15 @@
----
-layout: page
-title: "Teaching — Summer 2025"
-permalink: /teaching/2025/summer-127c/
-description: "Course page for MATH 127C: Advanced Multivariable Analysis & Integration on Manifolds, Summer 2025."
-tags: [teaching, summer-2025, analysis, vector-calculus, manifolds]
----
-
-# MATH 127C — Advanced Multivariable Analysis & Integration on Manifolds (Summer 2025)
+# MATH 127C — Real Analysis (Summer 2025)
 
 > This page mirrors announcements, policies, and a living schedule for the Summer 2025 offering. Lecture notes and problem sets reflect the topics we covered this term: metric spaces, compactness/connectedness, multivariable differentiability (Jacobian, chain/implicit/inverse theorems), $k$–volume and Gram determinants, change of variables, Fubini/Tonelli, and Green/Stokes/Divergence.
 
 ## At a Glance
 - **Instructor:** Shizhou Xu  
-  **Email:** shizhou.xu@university.edu  
-  **Office:** Mathematics Building, Room TBD
-- **Lecture:** Mon–Thu · 100 minutes · Location TBD (accelerated summer session)  
-  **Discussion/Section:** Fri · 50 minutes · Location TBD
-- **Office Hours:** Mon & Wed 2–3pm; Fri 11–12 (and by appointment)
-- **Course Site:** This page  
+  **Email:** shzxu@ucdavis.edu
+  **Office:** Mathematics Building, Room 3134
+- **Lecture:** MWF · 100 minutes · Wellman 212
+  **Discussion/Section:** T · 50 minutes · Wellman 212
+- **Office Hours:** Wed 3–4pm
+- **Course Site:** This page, Canvas
 - **LMS:** Canvas (assignments, submissions, grades)
 - **Textbook:** *No required text.* Curated lecture notes provided.  
   **Suggested references (optional):**
