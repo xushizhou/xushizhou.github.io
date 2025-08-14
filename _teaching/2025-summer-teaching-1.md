@@ -1,7 +1,10 @@
 ---
 layout: page
+title: "MATH 127C — Real Analysis (Summer 2025)"
+permalink: /teaching/math-127c-summer-2025/
+description: "Announcements, policies, and schedule for MATH 127C (Summer 2025)."
+math: true
 ---
-
 
 # MATH 127C — Real Analysis (Summer 2025)
 
@@ -9,9 +12,9 @@ layout: page
 
 ## At a Glance
 - **Instructor:** Shizhou Xu  
-  **Email:** shzxu@ucdavis.edu
+  **Email:** shzxu@ucdavis.edu  
   **Office:** Mathematics Building, Room 3134
-- **Lecture:** MWF · 100 minutes · Wellman 212
+- **Lecture:** MWF · 100 minutes · Wellman 212  
   **Discussion/Section:** T · 50 minutes · Wellman 212
 - **Office Hours:** Wed 3–4pm
 - **Course Site:** This page, Canvas
@@ -21,7 +24,7 @@ layout: page
   - Folland, Gerald, *Real Analysis*
   - Lax, Peter, *Linear Algebra*
   - Munkres, James, *Analysis on Manifolds*
-  - John, Hunter; Bruno Nachtergaele, *Applied Analysis*
+  - John Hunter; Bruno Nachtergaele, *Applied Analysis*
 - **Software/Tools:** LaTeX (Overleaf), Python (NumPy/SymPy/Jupyter) optional for checks/plots
 
 ---
@@ -78,12 +81,12 @@ By the end of the course, students will be able to:
 
 | Week | Topics | Readings | Deliverables |
 |:---:|:-------|:---------|:-------------|
-| 1 | Metric spaces: open/closed, limits, Cauchy, completeness; compactness (Heine–Borel in $\R^n$), connectedness; continuous maps | Notes §1–2 (Spivak Ch. 1–2; Hubbard Ch. 1) | HW1 out (Thu) |
-| 2 | Differentiability in $\R^n$: linear maps, Jacobian, chain rule; inverse & implicit function theorems; directional derivatives vs. differentiability | Notes §3 (Spivak Ch. 2–3) | HW1 due Tue; HW2 out; **Quiz 1** Thu |
+| 1 | Metric spaces: open/closed, limits, Cauchy, completeness; compactness (Heine–Borel in $\mathbb{R}^n$), connectedness; continuous maps | Notes §1–2 (Spivak Ch. 1–2; Hubbard Ch. 1) | HW1 out (Thu) |
+| 2 | Differentiability in $\mathbb{R}^n$: linear maps, Jacobian, chain rule; inverse & implicit function theorems; directional derivatives vs. differentiability | Notes §3 (Spivak Ch. 2–3) | HW1 due Tue; HW2 out; **Quiz 1** Thu |
 | 3 | $k$–frames and $k$–volume: Gram matrix, Gram–determinant; Pythagorean identity for $k$–volume; orthogonal invariance | Notes §4 (Marsden–Tromba Ch. 4 App.) | HW2 due Thu; HW3 out |
-| 4 | Parametrized manifolds & area element $J_\alpha$; change-of-variables in $\R^k$ (diffeomorphisms); Fubini/Tonelli (hypotheses & counterexamples) | Notes §5–6 (Spivak Ch. 5) | HW3 due Tue; **Midterm** Thu |
+| 4 | Parametrized manifolds & area element $J_\alpha$; change-of-variables in $\mathbb{R}^k$ (diffeomorphisms); Fubini/Tonelli (hypotheses & counterexamples) | Notes §5–6 (Spivak Ch. 5) | HW3 due Tue; **Midterm** Thu |
 | 5 | Green’s theorem (circulation & flux forms), divergence theorem in plane; orientation, flux & circulation; examples (area via Green) | Notes §7 (Marsden–Tromba Ch. 6–8) | HW4 out; **Quiz 2** Thu |
-| 6 | Stokes’ theorem in $\R^3$; surface integrals, normal form, geometry; synthesis & review; exam prep | Notes §8 (Spivak Ch. 5) | HW4 due Tue; **Final Exam** Thu |
+| 6 | Stokes’ theorem in $\mathbb{R}^3$; surface integrals, normal form, geometry; synthesis & review; exam prep | Notes §8 (Spivak Ch. 5) | HW4 due Tue; **Final Exam** Thu |
 
 ---
 
@@ -97,11 +100,11 @@ By the end of the course, students will be able to:
 
 ## Downloadables
 - **Syllabus (PDF):** *(posted on Canvas)*  
-- **Lecture Notes (PDF): ** LaTeX & PDF on Canvas  
+- **Lecture Notes (PDF):** LaTeX & PDF on Canvas  
 
 ---
 
 ## Version History
 - **v2025.1 (06/24/2025):** Summer 2025 launch; schedule & policies posted.  
 
-> *Page maintained by Shizhou Xu (Summer 2025).* 
+> *Page maintained by Shizhou Xu (Summer 2025).*
