@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: archive
+author_profile: true
 title: "MATH 127C — Real Analysis (Summer 2025)"
 permalink: /teaching/2025/summer-127c/
 date: 2025-06-24        # prevents the “, , 1900” artifact
