@@ -55,6 +55,6 @@ For a full list of my publications, see [Publications](/publications/).
 
 I am always open to discussing potential collaborations and research opportunities. Feel free to reach out via [email](mailto:shzxu@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/shizhouxu/).
 
-For more information, you can download my [CV](files/cv.pdf) or check out my [Google Scholar](https://scholar.google.com/citations?user=YOUR_UNIQUE_ID) profile.
+For more information, you can download my [CV](files/CV.pdf) or check out my [Google Scholar](https://scholar.google.com/citations?user=YOUR_UNIQUE_ID) profile.
 
 ---
