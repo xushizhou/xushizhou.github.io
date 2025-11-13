@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_to: /files/CV_ShizhouXu.pdf
+redirect_to: /files/CV.pdf
 permalink: /cv/
 ---
