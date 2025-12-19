@@ -1,60 +1,70 @@
 ---
-layout: archive
+layout: splash
 title: "Shizhou Xu"
 permalink: /
-sidebar: true
+author_profile: true
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.15"
+  # overlay_image: /assets/images/hero.jpg   # optional
+  actions:
+    - label: "Download CV"
+      url: "/files/CV.pdf"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=YOUR_ID"
+    - label: "Email"
+      url: "mailto:shzxu@ucdavis.edu"
 ---
 
-# Welcome
+<div class="home-hero">
+  <img src="/images/IMGP1928.jpeg" alt="Shizhou Xu" class="profile-photo" />
+</div>
 
-Hello, I'm **Shizhou Xu**, a postdoctoral researcher at the University of California, Davis. My research focuses on the interdisciplinary area between **mathematics** and **machine learning**, particularly in **probability theory**, **optimal transport**, and **trustworthy AI**.
+## Hi — I’m **Shizhou Xu**
 
-My recent work focuses on the following areas: AI trustworthiness (privacy, unlearning, fairness, robustness), neural optimal transport, multi-modal learning, statistical inference, and LLMs (temperature control and unlearning).
+I’m a postdoctoral researcher at **UC Davis**, working at the intersection of **mathematics and machine learning**.  
+My work develops **rigorous, usable frameworks** for **trustworthy ML** and **optimal-transport–inspired learning**.
 
-I am actively seeking opportunities where I can continue to contribute to advancing machine learning through rigorous mathematical frameworks.
+**Currently seeking** research scientist / applied scientist roles (and academic opportunities) where I can contribute to theory-driven ML with real-world impact.
 
-![Shizhou Xu](images/IMGP1928.jpeg){: width="300px"} <!-- Add a professional photo of yourself -->
+### Research snapshot
+- **Trustworthy AI:** privacy, machine unlearning, fairness, robustness (theory → algorithms → evaluation).
+- **Neural optimal transport:** dynamical/continuous-time viewpoints for learning and generation.
+- **Statistical inference for ML/AI:** reliable uncertainty, generalization, and principled evaluation.
 
----
-
-## Research Interests
-
-- **Mathematics**: Probability theory, optimal transport, stochastic dynamical systems, ergodic theory, and the mathematics of data science.
-- **Statistics**: High-dimensional statistics, mathematical statistics, and statistical inference.
-- **Machine Learning**: Fairness, privacy, robustness, explainable AI, and machine unlearning.
-
-You can read more about my research [here](/research/).
-
----
-
-## Recent Publications
-
-Here are a few highlights from my recent work:
-
-- **[Machine Unlearning via Information Theoretic Regularization](https://www.arxiv.org/pdf/2502.05684)**, arXiv, 2025.
-- **[WHOMP: Optimizing Randomized Controlled Trials via Wasserstein Homogeneity](https://arxiv.org/pdf/2409.18504)**, arXiv, 2024.
-- **[On the (In)Compatibility between Individual and Group Fairness](https://arxiv.org/pdf/2401.07174)**, arXiv, 2024.
-- **[Fair Data Representation for Machine Learning at the Pareto Frontier](https://www.jmlr.org/papers/volume24/22-0005/22-0005.pdf)**, Journal of Machine Learning Research, 2023.
-
-For a full list of my publications, see [Publications](/publications/).
-
----
-
-## News and Updates
-
-- **Mar 2025**: To present "WHOMP: Wasserstein Homogeneity Partition" at the Stanford University *Conference on Parsimony and Learning (CPAL)*.
-- **Jan 2025**: Invited talk on "WHOMP: Wasserstein Homogeneity Partition" at the University of California Davis *MADDD* Seminer.
-- **Sep 2024**: Invited talk on *Fairness in Machine Learning* at the *Computational Harmonic Analysis in Data Science and Machine Learning* workshop, Casa Matemática Oaxaca & Banff International Research Station.
-- **Jul 2024**: Presented "Fair Data Representation at the Pareto Frontier" at the *International Conference on Machine Learning (ICML)*.
-- **Jun 2024**: Awarded the Yueh-Jing Lin Scholarship for excellence in research at UC Davis.
-- **Aug 2023**: "Fair Data Representation at the Pareto Frontier" is published in the *Journal of Machine Learning Research* on fairness in machine learning at the Pareto frontier.
+<div class="cta-row">
+  <a class="btn btn--primary" href="/research/">Research</a>
+  <a class="btn btn--info" href="/publications/">Publications</a>
+  <a class="btn btn--inverse" href="https://github.com/xushizhou">GitHub</a>
+  <a class="btn btn--inverse" href="https://www.linkedin.com/in/shizhouxu/">LinkedIn</a>
+</div>
 
 ---
 
-## Get in Touch
+## Selected publications
+- **Shizhou Xu**, Yuan Ni, Stefan Broecker, Thomas Strohmer.  
+  *Machine Unlearning via Information-Theoretic Regularization.* **arXiv (2025)**. [[PDF](https://www.arxiv.org/pdf/2502.05684)]
+- **Shizhou Xu** et al.  
+  *WHOMP: Optimizing Randomized Controlled Trials via Wasserstein Homogeneity.* **arXiv (2024)**. [[PDF](https://arxiv.org/pdf/2409.18504)]
+- **Shizhou Xu**.  
+  *On the (In)Compatibility between Individual and Group Fairness.* **arXiv (2024)**. [[PDF](https://arxiv.org/pdf/2401.07174)]
+- **Shizhou Xu**.  
+  *Fair Data Representation for Machine Learning at the Pareto Frontier.* **JMLR (2023)**. [[PDF](https://www.jmlr.org/papers/volume24/22-0005/22-0005.pdf)]
 
-I am always open to discussing potential collaborations and research opportunities. Feel free to reach out via [email](mailto:shzxu@ucdavis.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/shizhouxu/).
-
-For more information, you can download my [CV](https://xushizhou.github.io/files/CV.pdf) or check out my [Google Scholar](https://scholar.google.com/citations?user=YOUR_UNIQUE_ID) profile.
+Full list: [/publications/](/publications/)
 
 ---
+
+## News
+- **Mar 2025** — Presenting *WHOMP* at **CPAL (Stanford)**.
+- **Jan 2025** — Invited talk at **UC Davis MADDD Seminar**.
+- **Sep 2024** — Invited talk at **BIRS / Casa Matemática Oaxaca** workshop on fairness in ML.
+- **Jul 2024** — Presented at **ICML 2024**.
+- **Jun 2024** — Received **Yueh-Jing Lin Scholarship** (UC Davis).
+
+---
+
+## Contact
+Email: [shzxu@ucdavis.edu](mailto:shzxu@ucdavis.edu)  
+CV: [/files/CV.pdf](/files/CV.pdf) · Scholar: (add your ID) · GitHub/LinkedIn above
