@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.profile-photo{
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 999px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.12);
+  display: block;
+  margin: 0 auto 1rem auto;
+}
+
+.cta-row{
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin: .6rem 0 0 0;
+}
