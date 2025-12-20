@@ -1,0 +1,61 @@
+- year: 2026
+  title: "Machine Unlearning via Information-Theoretic Regularization"
+  venue: "AIM Workshop on 'Fairness and Foundations in Machine Learning'"
+  location: "AIM (American Institute of Mathematics)"
+  note: "to appear"
+
+- year: 2026
+  title: "Machine Unlearning via Information-Theoretic Regularization"
+  venue: "Joint Mathematics Meetings"
+  note: "to appear"
+
+- year: 2025
+  title: "Machine Unlearning via Information-Theoretic Regularization"
+  venue: "Applied Math Seminar"
+  location: "University of Utah"
+
+- year: 2025
+  title: "Machine Unlearning via Information-Theoretic Regularization"
+  venue: "INFORMS Annual Meeting"
+
+- year: 2025
+  title: "Machine Unlearning for Scientific Discovery"
+  venue: "SLAC Users Meeting"
+  location: "Stanford University"
+
+- year: 2025
+  title: "WHOMP: Improving Upon Randomized Controlled Trials via Wasserstein Homogeneity"
+  venue: "ICLR Workshop"
+
+- year: 2025
+  title: "WHOMP: Improving Upon Randomized Controlled Trials via Wasserstein Homogeneity"
+  venue: "CPAL (Conference on Parsimony and Learning)"
+  note: "Spotlight Track"
+
+- year: 2025
+  title: "WHOMP: Improving Upon Randomized Controlled Trials via Wasserstein Homogeneity"
+  venue: "MADDD Seminar"
+  location: "UC Davis"
+
+- year: 2024
+  title: "Fair Data Representation for Machine Learning at the Pareto Frontier"
+  venue: "CMO–BIRS: Computational Harmonic Analysis in Data Science and Machine Learning"
+  location: "Casa Matemática Oaxaca & Banff International Research Station"
+
+- year: 2024
+  title: "Fair Data Representation for Machine Learning at the Pareto Frontier"
+  venue: "ICML (International Conference on Machine Learning)"
+
+- year: 2023
+  title: "Fair Data Representation for Machine Learning at the Pareto Frontier"
+  venue: "Explainable AI for the Sciences Workshop (IPAM)"
+  location: "UCLA"
+
+- year: 2022
+  title: "Fair Data Representation for Machine Learning"
+  venue: "SIAM MDS (Conference on Mathematics of Data Science)"
+
+- year: 2022
+  title: "Fairness in Machine Learning"
+  venue: "Inclusivity, Equity, and Ethics in Research and Data Science"
+  location: "UC Davis"
