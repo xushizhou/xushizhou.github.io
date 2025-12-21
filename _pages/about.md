@@ -26,7 +26,7 @@ header:
 
 I’m a **Postdoctoral Scholar at UC Davis** working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning & Artificial Intelligence**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation focused on **fairness in machine learning via optimal transport**.
 
-My research focuses on **mathematical foundation of AI** (e.g. neural network architecture analysis, physics-informed data-driven ML/AI), **AI for Science** (e.g. scientific data analysis, ML/AI-driven inverse solver, autonomous experiment for scientific discovery), and **trustworthy AI** (e.g. performance guarantee, generalizability, robustness, unlearning, fine-tuning, privacy, and fairness) via a **dynamical system viewpoints** of learning.
+My research focuses on **mathematical foundation of AI** (e.g. neural network architecture analysis, physics-informed data-driven ML/AI), **AI for Science** (e.g. scientific data analysis, ML/AI-driven inverse solver, autonomous experiment for scientific discovery), and **trustworthy AI** (e.g. performance guarantee, generalizability, robustness, unlearning, fine-tuning, privacy, and fairness) via a **stochastic dynamics viewpoint** of learning.
 
 **Currently seeking** collaborations where theory-driven ML can translate into measurable real-world impact.
 
@@ -42,7 +42,7 @@ My research focuses on **mathematical foundation of AI** (e.g. neural network ar
 ## Research snapshot
 
 - **Trustworthy ML/AI:** fairness, privacy, robustness, and **machine unlearning** (theory → algorithms → evaluation).
-- **Stochastic dynamics:** probability, optimal transport, and stochastic dynamics.
+- **Stochastic dynamics:** probability, optimal transport, stochastic process, and ergodic theory.
 - **Statistics for ML:** statistical learning, information theory, uncertainty quantification, and unsupervised learning.
 
 ### Highlights
