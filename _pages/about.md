@@ -24,11 +24,11 @@ header:
 
 ## Hi — I’m **Shizhou Xu**
 
-I’m a **Postdoctoral Scholar at UC Davis** working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation focused on **fairness in machine learning via optimal transport**.
+I’m a **Postdoctoral Scholar at UC Davis** working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning & Artificial Intelligence**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation focused on **fairness in machine learning via optimal transport**.
 
-My research develops **rigorous, usable frameworks** for **trustworthy AI** (fairness, privacy, robustness, unlearning) and for **continuous-time / dynamical viewpoints** of learning and generation.
+My research focuses on **mathematical foundation of AI** (e.g. neural network architecture analysis, physics-informed data-driven ML/AI), **AI for Science** (e.g. scientific data analysis, ML/AI-driven inverse solver, autonomous experiment for scientific discovery), and **trustworthy AI** (e.g. performance guarantee, generalizability, robustness, unlearning, fine-tuning, privacy, and fairness) via a **dynamical system viewpoints** of learning.
 
-**Currently seeking** research scientist / applied scientist roles (and academic opportunities) where theory-driven ML can translate into measurable real-world impact.
+**Currently seeking** collaborations where theory-driven ML can translate into measurable real-world impact.
 
 <div class="cta-row">
   <a class="btn btn--primary" href="/research/">Research</a>
@@ -42,12 +42,12 @@ My research develops **rigorous, usable frameworks** for **trustworthy AI** (fai
 ## Research snapshot
 
 - **Trustworthy ML/AI:** fairness, privacy, robustness, and **machine unlearning** (theory → algorithms → evaluation).
-- **Optimal transport & dynamical systems:** transport-based learning, continuous-time perspectives, and stochastic dynamics.
-- **Statistics for ML:** high-dimensional statistics, uncertainty quantification, and principled evaluation.
+- **Stochastic dynamics:** probability, optimal transport, and stochastic dynamics.
+- **Statistics for ML:** statistical learning, information theory, uncertainty quantification, and unsupervised learning.
 
 ### Highlights
 - **Fairness theory:** leveraged optimal transport to address multiple open questions in ML fairness.
-- **Industry impact:** my work has been referenced in external guidance on fairness mitigation; and my OT-based trial-design method has been adopted in a large clinical trial setting.
+- **Industry impact:** my work has been referenced in external guidance on fairness mitigation in financial transactions; and my OT-based trial-design method has been adopted in a large clinical trial setting.
 - **IP:** patent application pending on marginal-information regularization for LLM unlearning.
 
 ---
