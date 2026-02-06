@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-01-01-multiresolution-enhancement-full-spectrum/
 excerpt: "We develop multi-resolution enhancement strategies for full-spectrum neural representations, improving fidelity across scales with an emphasis on robust learning and generalization."
 date: 2025-01-01
-venue: "Under review (Nature Machine Intelligence)"
+venue: "Under review at Nature Machine Intelligence"
 paperurl: ""
 codeurl: ""
 slidesurl: ""
