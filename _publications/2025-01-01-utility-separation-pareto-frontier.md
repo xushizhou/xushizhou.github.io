@@ -3,10 +3,10 @@ title: "Utility–Separation Pareto Frontier: An Information-Theoretic Character
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-utility-separation-pareto-frontier/
-excerpt: "We provide an information-theoretic characterization of the utility–separation trade-off, yielding a principled Pareto frontier perspective for designing and evaluating separation-based objectives."
+excerpt: "We provide an information-theoretic characterization of the separation-utility trade-off, yielding a principled Pareto frontier perspective for designing and evaluating separation-based objectives."
 date: 2025-01-01
-venue: "Under review (Journal of Machine Learning Research — JMLR)"
-paperurl: ""
+venue: "Under review at Journal of Machine Learning Research"
+paperurl: "https://arxiv.org/abs/2602.04408"
 codeurl: ""
 slidesurl: ""
 citation: 'Shizhou Xu. (2025). “Utility–Separation Pareto Frontier: An Information-Theoretic Characterization.” <i>Under review at Journal of Machine Learning Research</i>.'
