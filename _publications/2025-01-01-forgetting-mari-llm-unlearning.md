@@ -5,11 +5,11 @@ category: manuscripts
 permalink: /publication/2025-01-01-forgetting-mari-llm-unlearning/
 excerpt: "We propose marginal-information regularization for LLM unlearning, targeting targeted forgetting with strong utility retention and practical, evaluation-driven design."
 date: 2025-01-01
-venue: "Under review (ICLR 2026)"
-paperurl: ""
+venue: "Under review"
+paperurl: "https://arxiv.org/abs/2511.11914"
 codeurl: ""
 slidesurl: ""
-citation: 'Shizhou Xu, Yuan Ni, Stefan Broecker, Thomas Strohmer. (2025). “Forgetting-MarI: LLM Unlearning via Marginal Information Regularization.” <i>Under review at ICLR 2026</i>.'
+citation: 'Shizhou Xu, Yuan Ni, Stefan Broecker, Thomas Strohmer. (2025). “Forgetting-MarI: LLM Unlearning via Marginal Information Regularization.” <i>Under review</i>.'
 ---
 
 ### Summary
