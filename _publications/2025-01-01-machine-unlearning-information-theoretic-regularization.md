@@ -6,7 +6,7 @@ permalink: /publication/2025-01-01-machine-unlearning-information-theoretic-regu
 excerpt: "We develop information-theoretic regularization principles for machine unlearning, aiming to remove targeted information while maintaining general utility and enabling principled evaluation."
 date: 2025-01-01
 venue: "Manuscript"
-paperurl: "[https://www.arxiv.org/pdf/2502.05684](https://arxiv.org/abs/2502.05684)"
+paperurl: "https://arxiv.org/abs/2502.05684"
 codeurl: ""
 slidesurl: ""
 citation: 'Shizhou Xu, Thomas Strohmer. (2025). “Machine Unlearning via Information-Theoretic Regularization.” under review at <i>Mathematical Foundations of Machine Learning</i>.'
