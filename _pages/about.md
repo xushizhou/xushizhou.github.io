@@ -23,13 +23,13 @@ header:
 
 ## Hi — I’m **Shizhou Xu**
 
-I am a **Postdoctoral Scholar in Mathematics at UC Davis**, working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning and trustworthy AI**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation studied **fairness in machine learning via optimal transport**.
+I am a **Postdoctoral Scholar in Mathematics at UC Davis**, working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation studied **fairness in machine learning via optimal transport**.
 
-**Starting in 2026, I will join Stanford University and SLAC National Accelerator Laboratory** to work on **deep learning and AI foundations for computational quantum physics**.
+**Starting in 2026, I will join Stanford University and SLAC National Accelerator Laboratory** to work on the **mathematical foundation of deep learning theory and AI for computational quantum physics**.
 
-My research develops **rigorous, principled methods** at the intersection of **probability/optimal transport**, **statistical inference**, and **machine learning**, with an emphasis on **AI for science** and **trustworthy ML**.
+My research develops **provable learning principles**—linking **stochastic dynamics**, **information theory**, and **optimal transport**—to understand and design modern ML systems (representation learning, deep networks, and generative models) with **theoretical guarantees**.
 
-I am on the **academic job market** and welcome conversations about **faculty opportunities, postdoctoral collaborations, and invited talks**.
+I am on the **academic job market** and welcome conversations about **faculty opportunities, postdoctoral collaborations, and invited talks** in **applied mathematics, statistics, and theoretical ML**.
 
 <div class="cta-row">
   <a class="btn btn--primary" href="/research/">Research</a>
@@ -43,7 +43,7 @@ I am on the **academic job market** and welcome conversations about **faculty op
 
 {% capture notice_text %}
 **News**
-- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (deep learning + AI foundations for computational quantum physics).
+- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (deep learning theory + AI foundations for computational quantum physics).
 - **Accepted (Nature Machine Intelligence, 2026)** — *Detail Across Scales: Multi-Scale Enhancement for Full Spectrum Neural Representations* (Yuan Ni, Zhantao Chen, **Shizhou Xu**, Cheng Peng, Rajan Plumley, Chun Hong Yoon, Jana B. Thayer, Joshua J. Turner).
 {% endcapture %}
 <div class="notice--success">
@@ -54,19 +54,19 @@ I am on the **academic job market** and welcome conversations about **faculty op
 
 ## Research overview
 
-My work asks: **How can we design learning systems that are both powerful and provably reliable?**  
-I develop theory and algorithms that connect **stochastic dynamics**, **information theory**, and **optimal transport** to modern ML.
+My work asks: **What are the right mathematical objects, limits, and invariances that explain—and improve—modern machine learning?**  
+I develop theory and algorithms that translate structural assumptions (geometry, dynamics, information constraints) into **principled objectives** and **provable guarantees**.
 
-### Research themes
-- **Trustworthy ML/AI:** fairness, privacy, robustness, and **machine unlearning** (theory → algorithms → evaluation).
-- **Neural optimal transport & dynamics:** principled architectures and objectives for transport, generation, and representation learning.
-- **AI for science:** multimodal scientific learning, inverse problems, and methods motivated by computational physics.
-- **Statistical inference for ML:** uncertainty quantification, generalization guarantees, and information-theoretic limits.
+### Research themes (foundations)
+- **Learning under information constraints:** information-theoretic formulations for **unlearning**, **privacy**, and **fairness**, and sharp trade-offs between utility and constraints.
+- **Dynamics and optimization of deep learning:** stochastic dynamical systems viewpoints for training, generalization, and stability.
+- **Optimal transport for learning:** OT as a unifying tool for representation learning, geometry-aware regularization, and generative modeling.
+- **Statistical foundations:** generalization, identifiability, and uncertainty-aware learning via modern probability and statistics.
 
-### Selected contributions
-- **Fairness via optimal transport:** theoretical frameworks and algorithms for Pareto-optimal fair representation learning.
-- **Machine unlearning:** information-theoretic regularization and principled objectives for selective forgetting.
-- **AI for scientific inference:** OT- and dynamics-inspired methods for inverse problems and experimental design.
+### Selected contributions (foundational angle)
+- **Fairness theory via OT:** characterized and optimized **Pareto frontiers** between predictive utility and fairness constraints using OT and information measures.
+- **Unlearning as constrained learning:** developed information-theoretic regularizers to formalize selective forgetting and analyze stability/utility trade-offs.
+- **Multi-scale representations:** contributed to theory-motivated architectures that capture structure **across scales** in scientific signals.
 
 ---
 
@@ -84,7 +84,7 @@ I develop theory and algorithms that connect **stochastic dynamics**, **informat
 - **Shizhou Xu, Thomas Strohmer.**  
   *On the (In)Compatibility between Individual and Group Fairness.* **Minor Revision (SIMODS).**  
   [[Preprint](https://arxiv.org/pdf/2401.07174)]
-  
+
 - **Shizhou Xu, Thomas Strohmer.**  
   *WHOMP: Improving Upon Randomized Controlled Trials via Wasserstein Homogeneity.* **Under review (JASA).**  
   [[Preprint](https://arxiv.org/pdf/2409.18504)]
@@ -100,7 +100,7 @@ Full list: [/publications/](/publications/)
 ## Talks & service (selected)
 
 - **Talks (selected):** ICML (2024), CMO–BIRS (2024), CPAL (2025), invited seminars/workshops (Utah, SLAC/Stanford, UC Davis).
-- **Professional service:** reviewer for ICML, NeurIPS, SIAM MDS, PRX (as applicable—edit to match your exact list).
+- **Professional service:** reviewer for ICML, NeurIPS, SIAM MDS, PRX (edit to match your current list).
 
 ---
 
