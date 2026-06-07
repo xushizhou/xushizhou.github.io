@@ -25,11 +25,9 @@ header:
 
 I am a **Postdoctoral Scholar in Mathematics at UC Davis**, working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation studied **fairness in machine learning via optimal transport**.
 
-**Starting in 2026, I will join Stanford University and SLAC National Accelerator Laboratory** to work on the **mathematical foundation of deep learning theory and AI for computational quantum physics**.
+**Starting in 2026, I will join Stanford University and SLAC National Accelerator Laboratory** to work on **mathematical foundation of deep learning and AI methods for computational quantum physics**.
 
-My research develops **provable learning principles**—linking **stochastic dynamics**, **information theory**, and **optimal transport**—to understand and design modern ML systems (representation learning, deep networks, and generative models) with **theoretical guarantees**.
-
-I am on the **academic job market** and welcome conversations about **faculty opportunities, postdoctoral collaborations, and invited talks** in **applied mathematics, statistics, and theoretical ML**.
+My research develops **provable learning principles**， linking **stochastic dynamics**, **information theory**, and **optimal transport**， to understand and design modern ML systems with **theoretical guarantees** and **practical impact**.
 
 <div class="cta-row">
   <a class="btn btn--primary" href="/research/">Research</a>
@@ -43,8 +41,8 @@ I am on the **academic job market** and welcome conversations about **faculty op
 
 {% capture notice_text %}
 **News**
-- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (mathemtical foundation of deep learning theory + AI foundations for computational quantum physics).
-- **Accepted (Nature Machine Intelligence, 2026)** — *Detail Across Scales: Multi-Scale Enhancement for Full Spectrum Neural Representations* (Yuan Ni, Zhantao Chen, **Shizhou Xu**, Cheng Peng, Rajan Plumley, Chun Hong Yoon, Jana B. Thayer, Joshua J. Turner).
+- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (mathematical foundation of deep learning and AI methods for computational quantum physics).
+- **Accepted (Nature Machine Intelligence, 2026)** — *Multi-Scale Enhancement for Full Spectrum Neural Representations* (Yuan Ni, Zhantao Chen, **Shizhou Xu**, Cheng Peng, Rajan Plumley, Chun Hong Yoon, Jana B. Thayer, Joshua J. Turner).
 {% endcapture %}
 <div class="notice--success">
   {{ notice_text | markdownify }}
@@ -54,19 +52,19 @@ I am on the **academic job market** and welcome conversations about **faculty op
 
 ## Research overview
 
-My work asks: **What are the right mathematical objects, limits, and invariances that explain—and improve—modern machine learning?**  
-I develop theory and algorithms that translate structural assumptions (geometry, dynamics, information constraints) into **principled objectives** and **provable guarantees**.
+My work asks: **What mathematical objects, limits, and invariances explain—and improve—modern machine learning?**  
+I develop theory and algorithms that translate structure (geometry, dynamics, and information constraints) into **principled objectives** and **provable guarantees**, with an emphasis on methods that also perform well in practice.
 
 ### Research themes (foundations)
 - **Learning under information constraints:** information-theoretic formulations for **unlearning**, **privacy**, and **fairness**, and sharp trade-offs between utility and constraints.
-- **Dynamics and optimization of deep learning:** stochastic dynamical systems viewpoints for training, generalization, and stability.
-- **Optimal transport for learning:** OT as a unifying tool for representation learning, geometry-aware regularization, and generative modeling.
-- **Statistical foundations:** generalization, identifiability, and uncertainty-aware learning via modern probability and statistics.
+- **Dynamics and optimization of deep learning:** stochastic dynamical systems viewpoints for training stability, implicit regularization, and generalization.
+- **Optimal transport for learning:** OT as a tool for representation learning, geometry-aware regularization, and generative modeling.
+- **Statistical foundations:** uncertainty quantification, identifiability, and reliable evaluation.
 
-### Selected contributions (foundational angle)
-- **Fairness theory via OT:** characterized and optimized **Pareto frontiers** between predictive utility and fairness constraints using OT and information measures.
-- **Unlearning as constrained learning:** developed information-theoretic regularizers to formalize selective forgetting and analyze stability/utility trade-offs.
-- **Multi-scale representations:** contributed to theory-motivated architectures that capture structure **across scales** in scientific signals.
+### What I build (for industry + academic audiences)
+- **Theory → algorithms:** proofs that lead to implementable objectives/regularizers.
+- **Reliable ML systems:** methods designed for robustness, auditability, and constraint satisfaction.
+- **Scientific ML:** learning pipelines for multimodal scientific data and inverse problems.
 
 ---
 
@@ -97,10 +95,41 @@ Full list: [/publications/](/publications/)
 
 ---
 
-## Talks & service (selected)
+## Impact & translation (selected)
 
-- **Talks (selected):** ICML (2024), CMO–BIRS (2024), CPAL (2025), invited seminars/workshops (Utah, SLAC/Stanford, UC Davis).
-- **Professional service:** reviewer for ICML, NeurIPS, SIAM MDS, PRX (edit to match your current list).
+- **Patent pending (LLM unlearning):** marginal-information regularization for selective forgetting and controllable fine-tuning.
+- **External adoption / guidance:** my work on **fairness mitigation** and **OT-based trial design** has been **recommended in guidance by the Alan Turing Institute**.  
+  <!-- Add the public link if available -->
+
+---
+
+## Industry experience
+
+- **Goldman Sachs — Quantitative Strategy (Intern):** risk analytics and margin call analysis (quantitative modeling; validation; large-scale data pipelines).  
+  <!-- Add year and team/location if you want -->
+
+---
+
+## Talks (selected)
+
+- **2026** — Talks to appear at **AIM Workshop @ Caltech (Fairness and Foundations in ML)** and the **Joint Mathematics Meetings (JMM)**.
+- **2025** — Invited/selected talks: **University of Utah Applied Mathematics Seminar**, **INFORMS Annual Meeting**, **SLAC Users Meeting (Stanford)**.
+- **2025** — **CPAL Spotlight Track** and **ICLR Workshop** presentation on **WHOMP**.
+- **2024** — Presented at **ICML 2024** and **CMO–BIRS** (Casa Matemática Oaxaca / Banff International Research Station).
+
+---
+
+## Honors & Awards (selected)
+
+- **2024** — **Yueh-Jing Lin Scholarship (UC Davis)** for excellence in research.
+- **2019** — **School of Engineering Scholarship (NYU)** for excellence in research.
+
+---
+
+## Professional service
+
+- **Reviewer:** ICML, NeurIPS, SIAM Journal on Mathematics of Data Science, PRX.
+- **Teaching:** MAT 127C (the last real analysis series course for math-major undergraudates at UC Davis, Summer 2025).  <!-- remove if you prefer a shorter homepage -->
 
 ---
 
