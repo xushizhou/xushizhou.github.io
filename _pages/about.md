@@ -7,12 +7,11 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.18"
-  # overlay_image: /assets/images/hero.jpg   # optional
+  # overlay_image: /assets/images/hero.jpg
   actions:
     - label: "Download CV"
       url: "/files/CV.pdf"
     - label: "Google Scholar"
-      # Replace YOUR_ID with your actual Scholar ID
       url: "https://scholar.google.com/citations?user=YOUR_ID"
     - label: "Email"
       url: "mailto:shzxu@ucdavis.edu"
@@ -24,71 +23,88 @@ header:
 
 ## Hi — I’m **Shizhou Xu**
 
-I’m a **Postdoctoral Scholar at UC Davis** working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning & Artificial Intelligence**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation focused on **fairness in machine learning via optimal transport**.
+I am a **Postdoctoral Scholar in Mathematics at UC Davis**, working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning and trustworthy AI**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation studied **fairness in machine learning via optimal transport**.
 
-My research focuses on **mathematical foundation of AI** (e.g. neural network architecture analysis, physics-informed data-driven ML/AI), **AI for Science** (e.g. scientific data analysis, ML/AI-driven inverse solver, autonomous experiment for scientific discovery), and **trustworthy AI** (e.g. performance guarantee, generalizability, robustness, unlearning, fine-tuning, privacy, and fairness) via a **stochastic dynamics viewpoint** of learning.
+**Starting in 2026, I will join Stanford University and SLAC National Accelerator Laboratory** to work on **deep learning and AI foundations for computational quantum physics**.
 
-**Currently seeking** collaborations where theory-driven ML can translate into measurable real-world impact.
+My research develops **rigorous, principled methods** at the intersection of **probability/optimal transport**, **statistical inference**, and **machine learning**, with an emphasis on **AI for science** and **trustworthy ML**.
+
+I am on the **academic job market** and welcome conversations about **faculty opportunities, postdoctoral collaborations, and invited talks**.
 
 <div class="cta-row">
   <a class="btn btn--primary" href="/research/">Research</a>
   <a class="btn btn--info" href="/publications/">Publications</a>
+  <a class="btn btn--inverse" href="/files/CV.pdf">CV</a>
   <a class="btn btn--inverse" href="https://github.com/xushizhou">GitHub</a>
   <a class="btn btn--inverse" href="https://www.linkedin.com/in/shizhouxu/">LinkedIn</a>
 </div>
 
 ---
 
-## Research snapshot
+{% capture notice_text %}
+**News**
+- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (deep learning + AI foundations for computational quantum physics).
+- **Accepted (Nature Machine Intelligence, 2026)** — *Detail Across Scales: Multi-Scale Enhancement for Full Spectrum Neural Representations* (Yuan Ni, Zhantao Chen, **Shizhou Xu**, Cheng Peng, Rajan Plumley, Chun Hong Yoon, Jana B. Thayer, Joshua J. Turner).
+{% endcapture %}
+<div class="notice--success">
+  {{ notice_text | markdownify }}
+</div>
 
+---
+
+## Research overview
+
+My work asks: **How can we design learning systems that are both powerful and provably reliable?**  
+I develop theory and algorithms that connect **stochastic dynamics**, **information theory**, and **optimal transport** to modern ML.
+
+### Research themes
 - **Trustworthy ML/AI:** fairness, privacy, robustness, and **machine unlearning** (theory → algorithms → evaluation).
-- **Stochastic dynamics:** probability, optimal transport, stochastic process, and ergodic theory.
-- **Statistics for ML:** statistical learning, information theory, uncertainty quantification, and unsupervised learning.
+- **Neural optimal transport & dynamics:** principled architectures and objectives for transport, generation, and representation learning.
+- **AI for science:** multimodal scientific learning, inverse problems, and methods motivated by computational physics.
+- **Statistical inference for ML:** uncertainty quantification, generalization guarantees, and information-theoretic limits.
 
-### Highlights
-- **Fairness theory:** leveraged optimal transport to address multiple open questions in ML fairness.
-- **Industry impact:** my work has been referenced in external guidance on fairness mitigation in financial transactions; and my OT-based trial-design method has been adopted in a large clinical trial setting.
-- **IP:** patent application pending on marginal-information regularization for LLM unlearning.
+### Selected contributions
+- **Fairness via optimal transport:** theoretical frameworks and algorithms for Pareto-optimal fair representation learning.
+- **Machine unlearning:** information-theoretic regularization and principled objectives for selective forgetting.
+- **AI for scientific inference:** OT- and dynamics-inspired methods for inverse problems and experimental design.
 
 ---
 
 ## Selected publications
 
+- **Yuan Ni, Zhantao Chen, Shizhou Xu, Cheng Peng, Rajan Plumley, Chun Hong Yoon, Jana B. Thayer, Joshua J. Turner.**  
+  *Detail Across Scales: Multi-Scale Enhancement for Full Spectrum Neural Representations.*  
+  **Nature Machine Intelligence (Accepted, 2026).**  
+  <!-- Add links when ready: [[Publisher](...)] [[arXiv](...)] [[Code](...)] -->
+
 - **Shizhou Xu, Thomas Strohmer.**  
-  *Fair Data Representation for Machine Learning at the Pareto Frontier.* **JMLR (2023)**.  
+  *Fair Data Representation for Machine Learning at the Pareto Frontier.* **JMLR (2023).**  
   [[PDF](https://www.jmlr.org/papers/volume24/22-0005/22-0005.pdf)]
 
 - **Shizhou Xu, Thomas Strohmer.**  
-  *WHOMP: Improving Upon Randomized Controlled Trials via Wasserstein Homogeneity.* **Under review (JASA)**.  
+  *WHOMP: Improving Upon Randomized Controlled Trials via Wasserstein Homogeneity.* **Under review (JASA).**  
   [[Preprint](https://arxiv.org/pdf/2409.18504)]
 
 - **Shizhou Xu, Thomas Strohmer.**  
-  *On the (In)Compatibility between Individual and Group Fairness.* **Under review (SIMODS)**.  
+  *On the (In)Compatibility between Individual and Group Fairness.* **Under review (SIMODS).**  
   [[Preprint](https://arxiv.org/pdf/2401.07174)]
 
 - **Shizhou Xu, Thomas Strohmer.**  
-  *Machine Unlearning via Information-Theoretic Regularization.* (manuscript; see publications page for the latest links).  
+  *Machine Unlearning via Information-Theoretic Regularization.* **Manuscript (2025).**  
   [[Preprint](https://www.arxiv.org/pdf/2502.05684)]
-
-- **Shizhou Xu, Yuan Ni, Stefan Broecker, Thomas Strohmer.**  
-  *Forgetting-MarI: LLM Unlearning via Marginal Information Regularization.* **Under review (ICLR 2026)**.  
-  *(Patent application pending.)*
 
 Full list: [/publications/](/publications/)
 
 ---
 
-## News & talks
+## Talks & service (selected)
 
-- **2026** — Talks to appear at **AIM Workshop (Fairness and Foundations in ML)** and **Joint Mathematics Meetings**.
-- **2025** — Invited/selected talks: **University of Utah Applied Math Seminar**, **INFORMS Annual Meeting**, **SLAC Users Meeting (Stanford)**.
-- **2025** — **CPAL Spotlight Track** and **ICLR Workshop** presentation on WHOMP.
-- **2024** — Presented at **ICML 2024** and **CMO–BIRS** (Casa Matemática Oaxaca / Banff).
-- **2024** — **Yueh-Jing Lin Scholarship (UC Davis)**.
+- **Talks (selected):** ICML (2024), CMO–BIRS (2024), CPAL (2025), invited seminars/workshops (Utah, SLAC/Stanford, UC Davis).
+- **Professional service:** reviewer for ICML, NeurIPS, SIAM MDS, PRX (as applicable—edit to match your exact list).
 
 ---
 
 ## Contact
 
 Email: [shzxu@ucdavis.edu](mailto:shzxu@ucdavis.edu)  
-CV: [/files/CV.pdf](/files/CV.pdf)
+CV: [/files/CV.pdf](/files/CV.pdf) · Publications: [/publications/](/publications/) · Research: [/research/](/research/)
