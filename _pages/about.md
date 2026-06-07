@@ -82,15 +82,15 @@ I develop theory and algorithms that connect **stochastic dynamics**, **informat
   [[PDF](https://www.jmlr.org/papers/volume24/22-0005/22-0005.pdf)]
 
 - **Shizhou Xu, Thomas Strohmer.**  
+  *On the (In)Compatibility between Individual and Group Fairness.* **Minor Revision (SIMODS).**  
+  [[Preprint](https://arxiv.org/pdf/2401.07174)]
+  
+- **Shizhou Xu, Thomas Strohmer.**  
   *WHOMP: Improving Upon Randomized Controlled Trials via Wasserstein Homogeneity.* **Under review (JASA).**  
   [[Preprint](https://arxiv.org/pdf/2409.18504)]
 
 - **Shizhou Xu, Thomas Strohmer.**  
-  *On the (In)Compatibility between Individual and Group Fairness.* **Under review (SIMODS).**  
-  [[Preprint](https://arxiv.org/pdf/2401.07174)]
-
-- **Shizhou Xu, Thomas Strohmer.**  
-  *Machine Unlearning via Information-Theoretic Regularization.* **Manuscript (2025).**  
+  *Machine Unlearning via Information-Theoretic Regularization.* **Under review (Mathematical Foundations of Machine Learning).**  
   [[Preprint](https://www.arxiv.org/pdf/2502.05684)]
 
 Full list: [/publications/](/publications/)
