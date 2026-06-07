@@ -43,7 +43,7 @@ I am on the **academic job market** and welcome conversations about **faculty op
 
 {% capture notice_text %}
 **News**
-- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (deep learning theory + AI foundations for computational quantum physics).
+- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (mathemtical foundation of deep learning theory + AI foundations for computational quantum physics).
 - **Accepted (Nature Machine Intelligence, 2026)** — *Detail Across Scales: Multi-Scale Enhancement for Full Spectrum Neural Representations* (Yuan Ni, Zhantao Chen, **Shizhou Xu**, Cheng Peng, Rajan Plumley, Chun Hong Yoon, Jana B. Thayer, Joshua J. Turner).
 {% endcapture %}
 <div class="notice--success">
