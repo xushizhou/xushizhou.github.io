@@ -23,11 +23,11 @@ header:
 
 ## Hi — I’m **Shizhou Xu**
 
-I am a **Postdoctoral Scholar in Mathematics at UC Davis**, working with **Prof. Thomas Strohmer** on the **mathematical foundations of machine learning**. I earned my **Ph.D. in Applied Mathematics (UC Davis, 2024)**, where my dissertation studied **fairness in machine learning via optimal transport**.
+I am a **Postdoctoral Scholar at Stanford University and SLAC National Accelerator Laboratory**, where I work on the **mathematical foundations of machine learning and artificial intelligence for computational quantum physics**. I joined Stanford and SLAC on **July 1, 2026**.
 
-**Starting in 2026, I will join Stanford University and SLAC National Accelerator Laboratory** to work on **mathematical foundation of deep learning and AI methods for computational quantum physics**.
+Previously, I was a **Postdoctoral Scholar in Mathematics at the University of California, Davis**, where I worked with **Prof. Thomas Strohmer** on the mathematical foundations of machine learning and trustworthy AI. I received my **Ph.D. in Applied Mathematics from UC Davis in 2024**, where my dissertation studied **fairness in machine learning through the lens of optimal transport**.
 
-My research develops **provable learning principles**， linking **stochastic dynamics**, **information theory**, and **optimal transport**， to understand and design modern ML systems with **theoretical guarantees** and **practical impact**.
+My research develops **principled mathematical frameworks for modern machine learning and AI**, drawing on **probability theory, stochastic dynamics, information theory, optimal transport, optimization, and statistical inference**. I am particularly interested in establishing theoretical guarantees and translating mathematical structure into tractable learning algorithms, with applications to **trustworthy AI, scientific machine learning, and computational quantum physics**.
 
 <div class="cta-row">
   <a class="btn btn--primary" href="/research/">Research</a>
@@ -41,7 +41,7 @@ My research develops **provable learning principles**， linking **stochastic dy
 
 {% capture notice_text %}
 **News**
-- **2026** — Joining **Stanford University / SLAC National Accelerator Laboratory** (mathematical foundation of deep learning and AI methods for computational quantum physics).
+- **July 2026** — Joined **Stanford University and SLAC National Accelerator Laboratory** to work on the **mathematical foundations of machine learning and AI for computational quantum physics**.
 - **Accepted (Nature Machine Intelligence, 2026)** — *Multi-Scale Enhancement for Full Spectrum Neural Representations* (Yuan Ni, Zhantao Chen, **Shizhou Xu**, Cheng Peng, Rajan Plumley, Chun Hong Yoon, Jana B. Thayer, Joshua J. Turner).
 {% endcapture %}
 <div class="notice--success">
