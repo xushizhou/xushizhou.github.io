@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: "Manuscript"
 paperurl: "https://arxiv.org/abs/2502.05684"
 codeurl: ""
-slidesurl: ""
+slidesurl: /files/AIM2026_Unlearning.pdf
 citation: 'Shizhou Xu, Thomas Strohmer. (2025). “Machine Unlearning via Information-Theoretic Regularization.” under review at <i>Mathematical Foundations of Machine Learning</i>.'
 ---
 
