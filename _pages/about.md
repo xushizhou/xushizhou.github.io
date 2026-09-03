@@ -46,7 +46,7 @@ Optional job-market announcement. Uncomment and tailor if applicable:
 
 {% capture notice_text %}
 **Recent news**
-- **2026:** *On the (In)Compatibility between Group Fairness and Individual Fairness* was accepted for publication in the **SIAM Journal on Mathematics of Data Science**.
+- **September 2026:** *On the (In)Compatibility between Group Fairness and Individual Fairness* was accepted for publication in the **SIAM Journal on Mathematics of Data Science**.
 - **August 2026:** Our paper, [*Multi-resolution enhancement for full-spectrum neural representations*](https://www.nature.com/articles/s42256-026-01287-9), was published in **Nature Machine Intelligence**.
 - **July 2026:** I joined **Stanford University and SLAC National Accelerator Laboratory** to work on mathematical foundations of AI for computational quantum physics.
 {% endcapture %}
